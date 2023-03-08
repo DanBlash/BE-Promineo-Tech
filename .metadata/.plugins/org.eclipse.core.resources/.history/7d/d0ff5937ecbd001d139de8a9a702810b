@@ -49,7 +49,7 @@ public class Week01VariablesAndOperationsLab {
 
 	    // 12. Create a new variable called full name using the customer's first name,
 	    // the middle initial, and a last name of your choice
-	    String fullName = firstName + middleInitial + " Doe";
+	    String fullName = firstName + middleInitial + " Smith";
 
 	    // 13. Print a line to the console that introduces the customer and says they live
 	    // at the address variable
