@@ -81,7 +81,7 @@ public class Week02BooleanConditionalsLoopsLab {
 	}
 					
 		
-				
+		
 		// 7.  Loyalty Member Program:
 		//		a. Create a variable called loyaltyMemberStatus and assign the value "SILVER"
 		//		b. Create a variable called loyaltyMemberDiscount and assign the value 0.0
