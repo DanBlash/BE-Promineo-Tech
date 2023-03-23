@@ -117,8 +117,10 @@ public class Week3ArraysAndMethodsLab {
 		// returns an array of int where each element
 		// matches the length of the string at that position
 		String[] array1 = { "Eagle", "Buffalo", "Duck", "Bird", "Deer", "Fish"};
-		System.out.println(extractStringLengths(array1));
-
+		int[] stringLengths = extractStringLengths(array1);
+		for (int number : stringLengths) {
+			System.out.println(number);
+		}
 		// 20. Write and test a method that takes an array of strings and
 		// returns true if the sum of letters for all strings with an even amount of
 		// letters
@@ -127,7 +129,8 @@ public class Week3ArraysAndMethodsLab {
 
 		// 21. Write and test a method that takes a string and
 		// returns true if the string is a palindrome
-
+		String palindrome = "racecar";
+		System.out.println(palindromeTest(palindrome));
 	}
 
 	// Method 13:
@@ -206,5 +209,11 @@ public class Week3ArraysAndMethodsLab {
 	}
 
 	// Method 21:
-
+	public static Boolean palindromeTest(String palindrome) {
+		for (int i = 0; i < palindrome.length() / 2; i++) {
+			if (palindrome.charAt(i) != palindrome.charAt(palindrome.length() - i - 1)) {
+				return false;
+			}
+		} return true; 
+	}
 }
