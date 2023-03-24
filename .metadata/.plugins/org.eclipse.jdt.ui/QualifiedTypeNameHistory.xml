@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="javax.naming.spi.DirStateFactory.Result"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
