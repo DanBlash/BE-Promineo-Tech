@@ -5,7 +5,7 @@ public class Week3_4CodingAssignment {
 	public static void main(String[] args) {
 
 		// # 1
-		int[] ages = { 3, 9, 23, 64, 2, 8, 28, 93, 96 };
+		int[] ages = { 3, 9, 23, 64, 2, 8, 28, 93, 96};
 		 int sum = 0;
 		 int average = 0;
 
