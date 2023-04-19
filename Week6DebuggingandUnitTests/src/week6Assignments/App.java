@@ -34,11 +34,11 @@ public class App {
 	}
 	
 	if (player1.score > player2.score) {
-		System.out.printf("%s is the winner with a score of %d", player1.name, player1.score);
+		System.out.printf("%n%s is the winner with a score of %d", player1.name, player1.score);
 	} else if (player1.score < player2.score) {
-		System.out.printf("%s is the winner with a score of %d", player2.name, player2.score);
+		System.out.printf("%n%s is the winner with a score of %d", player2.name, player2.score);
 	} else {
-		System.out.println("The game has ended in a tie! Good luck next time.");
+		System.out.printf("%nThe game has ended in a tie!.");
 	}
 	
 	
