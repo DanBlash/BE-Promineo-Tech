@@ -1,6 +1,8 @@
+package test.demo;
 import com.google.common.annotations.VisibleForTesting;
 
 import java.util.Random;
+
 
 public class TestDemo {
 
@@ -28,10 +30,10 @@ public class TestDemo {
 
 
 	public int addPositive(int a, int b) {
-		if (a > 0 || b > 0) {
-			return a + b;
+		if (a <= 0 || b <= 0) {
+			throw new IllegalArgumentException("Both parameters must be positive and greater than zero!");
 		}
-		throw new IllegalArgumentException("Both parameters must be positive!");
+		return a + b;
 	}
 	
 }

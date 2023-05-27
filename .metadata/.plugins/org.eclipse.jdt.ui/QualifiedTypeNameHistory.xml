@@ -30,8 +30,9 @@
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.Arguments"/>
     <fullyQualifiedTypeName name="java.util.stream.Stream"/>
-    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.MethodSource"/>
     <fullyQualifiedTypeName name="com.google.common.annotations.VisibleForTesting"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.MethodOrderer.Random"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.params.provider.MethodSource"/>
 </qualifiedTypeNameHistroy>
