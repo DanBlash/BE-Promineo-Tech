@@ -4062,3 +4062,208 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.google.gu
 2023-06-01 11:30:20,082 [Worker-90: Launching PetStoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2023-06-01 11:30:20,087 [Worker-90: Launching PetStoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2023-06-01 11:30:20,089 [Worker-90: Launching PetStoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 14:44:57,407 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-09 14:46:58,460 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 14:46:58,473 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 14:46:58,477 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 14:47:48,018 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 14:47:48,025 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 14:47:48,028 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 15:18:50,845 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 15:18:50,852 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 15:18:50,857 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 15:21:27,994 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 15:21:28,002 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 15:21:28,004 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 16:01:11,702 [Worker-35: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 16:01:11,706 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 16:01:11,715 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 16:01:11,717 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 16:01:13,765 [Worker-35: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 16:01:13,768 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 16:01:13,776 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 16:01:13,777 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:14:13,187 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:14:13,192 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:14:13,239 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:14:13,241 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:14:56,437 [Worker-44: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:14:56,440 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:14:56,445 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:14:56,447 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:15:07,026 [Worker-43: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:15:07,029 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:15:07,034 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:15:07,036 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:15:42,200 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:15:42,204 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:15:42,209 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:15:42,212 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:16:27,700 [Worker-43: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:16:27,703 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:16:27,708 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:16:27,710 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:17:19,871 [Worker-43: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:17:19,874 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:17:19,879 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:17:19,880 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:17:29,409 [Worker-43: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:17:29,412 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:17:29,416 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:17:29,418 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:17:41,331 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:17:41,334 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:17:41,339 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:17:41,343 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:17:49,406 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:17:49,409 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:17:49,413 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:17:49,415 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:18:37,986 [Worker-44: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:18:37,990 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:18:37,996 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:18:37,999 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:18:42,777 [Worker-44: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:18:42,780 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:18:42,786 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:18:42,788 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:26:39,840 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:26:39,843 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:26:39,849 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:26:39,851 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:32:36,350 [Worker-49: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:32:36,353 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:32:36,359 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:32:36,362 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:33:47,776 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:33:47,778 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:33:47,785 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:33:47,787 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:34:09,552 [Worker-49: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:34:09,554 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:34:09,561 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:34:09,563 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:36:30,683 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:36:30,686 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:36:30,698 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:36:30,701 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:37:36,166 [Worker-51: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:37:36,169 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:37:36,175 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:37:36,177 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:37:46,633 [Worker-49: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:37:46,635 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:37:46,641 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:37:46,643 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:39:41,307 [Worker-50: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:39:41,309 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:39:41,314 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:39:41,316 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:39:46,418 [Worker-51: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:39:46,420 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:39:46,426 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:39:46,427 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:39:53,138 [Worker-51: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:39:53,140 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:39:53,145 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:39:53,147 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:42:21,779 [Worker-53: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:42:21,782 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:42:21,788 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:42:21,790 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 17:44:11,397 [Worker-55: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 17:44:11,401 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 17:44:11,407 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 17:44:11,409 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 18:32:24,628 [Worker-60: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 18:32:24,632 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 18:32:24,641 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 18:32:24,643 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 18:35:03,875 [Worker-59: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 18:35:03,877 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 18:35:03,886 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 18:35:03,887 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 18:41:21,023 [Worker-63: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 18:41:21,026 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 18:41:21,032 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 18:41:21,035 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 18:41:25,436 [Worker-63: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 18:41:25,438 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 18:41:25,445 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 18:41:25,447 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 20:39:24,053 [Worker-64: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 20:39:24,061 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 20:39:24,102 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 20:39:24,104 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 20:39:28,063 [Worker-64: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 20:39:28,065 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 20:39:28,081 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 20:39:28,083 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 20:40:58,051 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 20:40:58,054 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 20:40:58,058 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 20:40:58,060 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 20:41:25,090 [Worker-59: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 20:41:25,093 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 20:41:25,118 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 20:41:25,120 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 20:42:21,738 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 20:42:21,741 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 20:42:21,745 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 20:42:21,747 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 20:49:48,006 [Worker-63: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 20:49:48,008 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 20:49:48,014 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 20:49:48,015 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 20:57:55,319 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 20:57:55,322 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 20:57:55,328 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 20:57:55,330 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 20:59:31,529 [Worker-66: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 20:59:31,532 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 20:59:31,537 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 20:59:31,540 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 21:00:29,384 [Worker-66: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 21:00:29,386 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 21:00:29,393 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 21:00:29,395 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-09 21:03:53,897 [Worker-68: Launching PetStoreApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-09 21:03:53,899 [Worker-68: Launching PetStoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-09 21:03:53,906 [Worker-68: Launching PetStoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-09 21:03:53,907 [Worker-68: Launching PetStoreApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-10 10:14:11,704 [Worker-87: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-10 10:14:11,708 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-10 10:14:11,746 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-10 10:14:11,748 [Worker-87: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-10 10:14:19,821 [Worker-88: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-10 10:14:19,823 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-10 10:14:19,845 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-10 10:14:19,847 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-10 10:18:46,085 [Worker-90: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-10 10:18:46,087 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-10 10:18:46,093 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-10 10:18:46,095 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-10 10:22:55,496 [Worker-94: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-10 10:22:55,498 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-10 10:22:55,504 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-10 10:22:55,506 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-10 10:23:24,148 [Worker-91: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-10 10:23:24,150 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-10 10:23:24,172 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-10 10:23:24,173 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-10 10:24:52,759 [Worker-85: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-10 10:24:52,762 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-10 10:24:52,767 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-10 10:24:52,769 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-10 11:04:16,281 [Worker-100: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-10 11:04:16,285 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-10 11:04:16,299 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-10 11:04:16,302 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-10 11:11:16,585 [Worker-104: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2023-06-10 11:11:16,588 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-10 11:11:16,595 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-10 11:11:16,597 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2023-06-10 15:48:43,373 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-10 15:50:21,713 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-06-10 15:50:21,726 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-06-10 15:50:21,729 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes

@@ -3,7 +3,6 @@ package pet.store.entity;
 import java.util.HashSet;
 import java.util.Set;
 
-import ch.qos.logback.core.joran.spi.NoAutoStart;
 import jakarta.persistence.CascadeType;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
